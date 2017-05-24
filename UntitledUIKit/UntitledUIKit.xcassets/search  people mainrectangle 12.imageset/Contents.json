@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "filename": "search  people mainrectangle 12@2x.png", 
+      "idiom": "universal", 
+      "scale": "2x"
+    }
+  ], 
+  "info": {
+    "author": "xcode", 
+    "version": 1
+  }
+}
